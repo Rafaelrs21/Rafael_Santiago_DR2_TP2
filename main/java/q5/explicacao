@@ -1,0 +1,3 @@
+Com este código permite a utilização de menos ifs e ainda
+com a quebra de condições em métodos facilita a utilização,
+leitura e até expansão do código futuramente.

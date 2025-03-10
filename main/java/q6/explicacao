@@ -1,0 +1,4 @@
+Um código fortemente acoplado fica extremamente enchuto e
+muito rígido tanto para dar manutenção quanto para expandir
+as funções do código, quebrar e fazer partes menores garante
+que o código funcione muito mais coeso e fácil de manter.

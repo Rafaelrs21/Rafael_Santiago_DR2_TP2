@@ -1,0 +1,4 @@
+Com o Override e passando os métodos como enviar
+e sendo especificados quando são no enum garante
+que não ocorra o switch cansativo e fique tendo
+as mesmas chamadas repetidas.

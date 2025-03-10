@@ -1,0 +1,4 @@
+O código está fazendo duas coisas o que é um grande problema
+pois na hora de dar manutenção ficará mais complicado e pode
+ocorrer de uma mudança de função, utilizar mais um método e
+chamar dentro de outro método garante melhor estrutura

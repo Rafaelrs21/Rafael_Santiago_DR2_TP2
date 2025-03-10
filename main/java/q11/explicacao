@@ -1,0 +1,4 @@
+O default como está sendo utilizado mascara possíveis erros
+futuros o que pode vir a ser um grande problema, para isso
+tratar com um throw exception nesses casos garante uma melhor
+resposta, pois nenhum dos casos listados no switch foi chamado

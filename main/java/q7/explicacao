@@ -1,0 +1,3 @@
+Com o abstract factory eu posso criar classes paras os métodos
+já que eles se comportam como uma classe e utilizar o switch
+para evitar de escrever vários if e manter o código mais limpo

@@ -1,0 +1,4 @@
+Com a utilização do this. evita do código chamar o preço
+do produto de qualquer outra parte e referência ápenas na
+área específica e isso garante que não aja problema na hora
+de fazer o calculo de outros produtos

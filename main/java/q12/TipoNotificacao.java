@@ -1,5 +1,24 @@
 package q12;
 
 public enum TipoNotificacao {
-    ENVIADA
+    EMAIL {
+        @Override
+        public void enviar() {
+            System.out.println("Enviando e-mail...");
+        }
+    },
+    SMS {
+        @Override
+        public void enviar() {
+            System.out.println("Enviando SMS...");
+        }
+    },
+    PUSH {
+        @Override
+        public void enviar() {
+            System.out.println("Enviando notificação push...");
+        }
+    };
+
+    public abstract void enviar();
 }

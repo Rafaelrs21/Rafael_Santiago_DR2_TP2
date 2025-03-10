@@ -1,0 +1,3 @@
+Foi utilizado a condição Null Object justamente para evitar
+de retonar em certas situações um cliente que não está cadastrado
+no sistema, o que garante que não haverá bugs de null object.

@@ -1,0 +1,4 @@
+Quebrar um método em dois garante mais faciliade na manutenção,
+evita de um mesmo método fazer duas coisas como no exemplo está
+lendo e deletando o arquivo, o que é ruim em casos onde se precisa
+apenas ler o arquivo ou deletar o arquivo
